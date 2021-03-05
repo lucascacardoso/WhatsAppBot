@@ -1,0 +1,16 @@
+1. Instalar VS Code e Python (lembrar de adicionar ao PATH)
+
+2. Abrir pasta do arquivo no VS Code
+
+3. Abrir um novo terminal
+
+4. Instalar os pacotes necessários executando o comando abaixo: 
+  - pip install selenium webdriver_manager
+
+5. Editar contatos.txt
+
+6. Editar mensagem e caminho do arquivo a ser enviado em bot.py
+
+7. Executar o comando abaixo no terminal para iniciar o app:
+  - python bot.py
+

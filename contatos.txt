@@ -1,0 +1,1 @@
+Informe aqui os contatos (1 por linha) no seguinte formato: "+" + "cód_pais" + "cód_área" + "número".
